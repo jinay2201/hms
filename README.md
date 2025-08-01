@@ -8,3 +8,8 @@ Hospital Management System is a web-based application designed to streamline and
 - **Admin module:** manage patients, doctors, appointments, billing, feedback and reports
 - Billing and invoice generation
 - Search and filter functionality for easy data management
+
+# Technology used
+- HTML
+- CSS
+- 
