@@ -12,4 +12,4 @@ Hospital Management System is a web-based application designed to streamline and
 # Technology used
 - HTML
 - CSS
-- 
+  
